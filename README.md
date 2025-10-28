@@ -1,4 +1,4 @@
-# MCP-with-Python
+# MCP-with-Code
 -----------
 Currently in progress...
 
